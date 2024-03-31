@@ -1,2 +1,4 @@
 # network
-"Chinese developers are concerned about privacy protection, they never use their real IP addresses."
+
+A repo to handle all network issue with me.
+
